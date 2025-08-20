@@ -1,4 +1,1 @@
 we use svg as a file not directly so we use xmlns="http://www.w3.org/2000/svg" in every svg we copied
-
-i have also pasted some of harry bhai codes here just for reference and what could i have missed
-in this folder if any doubts check again man
