@@ -1,6 +1,6 @@
 # My CS50x Final Project: Custom Website Generator
 
-Hello and welcome to my first official web project! 🎉 This is my final project for **CS50x: Introduction to Computer Science**, and it's something I'm really proud of. For the first time, I’ve built an entire web application from scratch—**a website generator** where you can create your very own customizable websites!
+Hello and welcome to my first official web project! 🎉 This is my final project for **CS50x: Introduction to Computer Science**, and it's something I'm really proud of. For the first time, I’ve built an entire web application from scratch—**a website generator** where you can create your very own customizable website!
 
 ## What is this project?
 
