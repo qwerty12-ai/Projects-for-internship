@@ -53,10 +53,6 @@ Here’s a quick overview of how the project is organized:
     └── style.css           # Custom CSS file for the styling of the web app
 
 
-## Screenshots of web pages:
-
-
-
 ## Future Improvements
 
 While I’m really proud of what I’ve built so far, there are a few areas I plan to improve and expand upon as I continue to work on this project. These potential enhancements will make the application more robust, flexible, and user-friendly:
