@@ -10,7 +10,7 @@ an clone similar to netflix using html and css
 ## Spotify inspired music player:
 link: https://projects-for-internship-spotify.vercel.app/
 
-an clone inspired by spoitfy to create a personal music player 
+an clone inspired by spotify to create a personal music player 
 
 ## react based chatbot:
 it is currently in dvevelopement needs to be refined more but has implemented state hooks in react.js hence it is still placed in localhost and is placed under chatbot.html
