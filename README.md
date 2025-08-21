@@ -16,6 +16,4 @@ an clone inspired by spotify to create a personal music player i didnt know how 
 it is currently in development;needs to be refined more but has implemented state and hooks in react.js hence it is still placed in localhost and is placed under chatbot folder
 
 ## website generator:
-link: 
-
-an personal final project of cs50x with an detailed readme inside its folder made by using html css flask alltogether to provide fast template to users.
+an personal final project of cs50x with an detailed readme inside its folder made by using html. css and flask alltogether to provide fast template of website to users. I couldnt deploy this project as i dont have understanding of deploying projects for free (only for full stack websites).
