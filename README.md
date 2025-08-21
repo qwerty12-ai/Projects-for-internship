@@ -33,6 +33,8 @@ screenshots:
 
 <img width="1886" height="904" alt="Screenshot 2025-08-21 180711" src="https://github.com/user-attachments/assets/394c4247-77c2-4ee9-be9f-bbeeb86e0128" />
 
+<img width="1876" height="921" alt="image" src="https://github.com/user-attachments/assets/5c85b0b3-29be-43ff-8e49-74cab9999180" />
+
 
 
 an personal final project of cs50x with an detailed readme inside its folder made by using html. css and flask alltogether to provide fast template of website to users. I couldnt deploy this project as i dont have understanding of deploying projects for free (only for full stack websites).
