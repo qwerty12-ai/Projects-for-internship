@@ -35,7 +35,7 @@ screenshots:
 
 <img width="1876" height="921" alt="image" src="https://github.com/user-attachments/assets/5c85b0b3-29be-43ff-8e49-74cab9999180" />
 
+an personal final project of cs50x with an detailed readme inside its folder made by using html. css and flask alltogether to provide fast template of website to users. I couldnt deploy this project as i dont have understanding of deploying projects for free (only for full stack websites).
 
 ## Figma hackathon project:
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7374833343655366657" height="1004" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
-an personal final project of cs50x with an detailed readme inside its folder made by using html. css and flask alltogether to provide fast template of website to users. I couldnt deploy this project as i dont have understanding of deploying projects for free (only for full stack websites).
+[View linkedIn Post](https://lnkd.in/p/gSHMcHTe)
