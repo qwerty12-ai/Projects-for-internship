@@ -20,7 +20,7 @@ an clone inspired by spotify to create a personal music player which involves th
 
 # Passop – Password Manager
 
-![Passop tutorial](https://youtu.be/r5UilHhVbCs)
+Youtube video link: https://youtu.be/r5UilHhVbCs
 
 ## Project Overview
 
