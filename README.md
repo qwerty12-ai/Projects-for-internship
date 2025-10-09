@@ -1,6 +1,4 @@
 # Projects-for-internship
-Hello ! My name is mohd abdul sabeeh and i am an aspiring full stack web developer who is currently completed backend but have completed a set of projects in frontend using html, css , js,react,mongo db; including a full stack project which involves using flask html css too.
-this is a compilation of all my web development projects that i have made to date and i tried to the best of my knowledge to deploy projects and i have made some errors which i will rectify later on as i continue to understand deployment as i gain more practical expertise. 
 
 Hi! I’m **Mohd Abdul Sabeeh**, an aspiring full-stack web developer currently sharpening my backend skills. Alongside, I’ve completed several frontend projects using HTML, CSS, JavaScript, React, and MongoDB—including a full-stack project that leverages Flask, HTML, and CSS.
 
