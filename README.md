@@ -16,13 +16,43 @@ screenshot:
 
 an clone inspired by spotify to create a personal music player which involves the basics of frontend(html, css and js)  
 
-## react based chatbot:
+## React Password Manager - A learning demo not ready for deployment yet
 
-screenshot:
-<img width="1889" height="909" alt="Screenshot 2025-08-21 180128" src="https://github.com/user-attachments/assets/55bb628a-b159-487a-9459-8e0a7bb704cb" />
+# Passop – Password Manager
 
+![Passop tutorial](https://youtu.be/r5UilHhVbCs)
 
-it is currently in development;needs to be refined more but has implemented state and hooks in react.js hence it is still placed in localhost and is placed under chatbot folder
+## Project Overview
+
+Passop is a simple password manager built with React and Node.js, using MongoDB as the database. It helps you store and manage passwords locally with a clean UI and basic CRUD functionality. Perfect for personal projects and to showcase your full-stack skills.
+
+## Features
+
+- Add, edit, and delete passwords
+- Passwords stored in MongoDB
+- Simple React frontend with backend API
+- Responsive design with Tailwind CSS
+- Local `.env` file for configuration (not pushed to GitHub)
+
+## Tech Stack
+
+- React.js
+- Node.js + Express.js
+- MongoDB (using Mongoose)
+- Tailwind CSS
+- Vite for frontend build
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js installed
+- MongoDB running locally or use MongoDB Atlas
+
+## Notes
+
+* Make sure your `.env` file is included in `.gitignore` to avoid pushing secrets.
+* This project is for learning and demo purposes only — **do not use it for storing real sensitive passwords yet!**
 
 ## website generator:
 youtube video link: https://youtu.be/z1x20k7KfTI?si=7RmqUj-3TFK_jc4e
