@@ -5,7 +5,7 @@ this is a compilation of all my web development projects that i have made to dat
 ## Netflix: 
 link: https://projects-for-internship-netflix.vercel.app/
 
-an clone similar to netflix using html and css
+an clone similar to netflix homepage of the year 2024 using html and css for deepening understanding of frontend basics
 
 ## Spotify inspired music player:
 link: https://projects-for-internship-spotify.vercel.app/
@@ -14,7 +14,7 @@ screenshot:
 <img width="1906" height="919" alt="Screenshot 2025-08-21 052507" src="https://github.com/user-attachments/assets/ae44f19d-f9a9-4244-9932-565071d65d2e" />
 
 
-an clone inspired by spotify to create a personal music player i didnt know how to make my songs public by hosting it 
+an clone inspired by spotify to create a personal music player which involves the basics of frontend(html, css and js)  
 
 ## react based chatbot:
 
